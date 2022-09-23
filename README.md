@@ -10,7 +10,6 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
 -  &nbsp;
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
-   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
  
 <h3> 🌐 &nbsp;Frontend Technologies</h3>
 
@@ -35,7 +34,6 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Php](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=php)
-  ![Php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 
