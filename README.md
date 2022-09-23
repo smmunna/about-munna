@@ -37,7 +37,7 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mymsql)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 
@@ -70,8 +70,9 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
 
 <p align="center">
 <a href="https://www.linkedin.com/in/minhazul-abedin-munna-77181b178"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smmunna-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sm.munna_x/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-smmunna-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:minhazulabedinmunna@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhazulabedinmunna@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/sm.munna_x/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-smmunna-blue?style=flat-square&logo=instagram"></a>
+
 </p>
 
 ⭐️ From [smmunna](https://github.com/smmunna)
