@@ -11,7 +11,7 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
    ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
  
 <h3> 🌐 &nbsp;Frontend Technologies</h3>
 
