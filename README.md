@@ -8,10 +8,11 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
 <h3> 💻 &nbsp;Programming Language</h3>
 
 -  &nbsp;
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
-   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  
 <h3> 🌐 &nbsp;Frontend Technologies</h3>
 
@@ -36,10 +37,11 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 
-<h3> 🔧 &nbsp;Tools</h3>
+<h3> 🔧 &nbsp;Tools</h3> 
 
 -  &nbsp;
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -47,6 +49,12 @@ Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engi
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+<h3> 🔧 &nbsp;Hosting</h3>
+
+- &nbsp;
+   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <a href="https://github.com/smmunna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smmunna&theme=buefy&show_icons=true&show_prs=false" />
