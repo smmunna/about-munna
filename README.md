@@ -3,13 +3,15 @@
 <h2 align="center"> Hey there 👋! I'm Minhazul Abedin Munna.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engineering at International University of Business, Agriculture and Technology (BAN). 
+Currentltly i'm studying  9<sup>th</sup> semester in CSE(Computer Science & Engineering at International University of Business, Agriculture and Technology (BANGLADESH)). 
 
 <h3> 💻 &nbsp;Programming Language</h3>
 
 -  &nbsp;
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
  
 <h3> 🌐 &nbsp;Frontend Technologies</h3>
 
