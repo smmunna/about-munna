@@ -3,7 +3,7 @@
 I'm a MERN Stack Web Developer studying at IUBAT, Bangladesh.
 
 - 👨‍💻 I'm currently learning React.
-- 🧰 My toolbelt: React, HTML, CSS, BootStrap, JavaScript, Node.js, MongoDB, PHP.
+- 🧰 My toolbelt: HTML, CSS, BootStrap, JavaScript, React, Node.js, MongoDB, PHP.
 - 📫 How to reach me: minhazulabedinmunna@gmail.com, or [LinkedIn](https://www.linkedin.com/in/minhazul-abedin-munna-77181b178)
 - ⚡ Hobby: 🐈 I absolutely love to travel 😃
 <br>
