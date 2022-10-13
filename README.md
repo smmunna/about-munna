@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a MERN Stack Web Developer studying at IUBAT, Bangladesh.
+I'm a MERN Stack Web Developer studying BSC in CSE at IUBAT, Bangladesh.
 
 - 👨‍💻 I'm currently learning React.
 - 🧰 My toolbelt: HTML, CSS, BootStrap, JavaScript, React, Node.js, MongoDB, PHP.
