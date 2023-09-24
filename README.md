@@ -1,7 +1,7 @@
 # Hey there 👋
 
 I'm a MERN Stack Web Developer studying BSC in CSE at IUBAT, Bangladesh.
-Currently, I'm doing internship on Software Development at [LinkedIn](https://www.zaman-it.com/)
+Currently, I'm doing internship on Software Development at [Zaman IT LTD.](https://www.zaman-it.com/)
 
 - 🧰 My toolbelt: HTML, CSS, BootStrap, JavaScript, React, Node.js, MongoDB, PHP, github, Netlify, Heroku, Figma to HTML.
 - 📫 How to reach me:[Minhazul Abedin Munna](mailto:minhazulabedinmunna@gmail.com?subject=[GitHub]%20Emergency%20Contact%20..!!) , or [LinkedIn](https://www.linkedin.com/in/minhazul-abedin-munna-77181b178) , [Facebook](https://www.facebook.com/smmunna21)
