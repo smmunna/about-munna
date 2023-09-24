@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm a MERN Stack Web Developer studying BSC in CSE at IUBAT, Bangladesh.
+I'm a MERN Stack Web Developer studying BSC in CSE at IUBAT, Bangladesh. <br>
 Currently, I'm doing internship on Software Development at [Zaman IT LTD.](https://www.zaman-it.com/)
 
 - 🧰 My toolbelt: HTML, CSS, BootStrap, JavaScript, React, Node.js, MongoDB, PHP, github, Netlify, Heroku, Figma to HTML.
