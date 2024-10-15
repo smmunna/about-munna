@@ -1,5 +1,5 @@
 # Hey there 👋 
-I'm Minhazul Abedin Munna! <br>
+
 I’m a passionate software engineer with a degree from IUBAT. Over the years, I’ve equipped myself with a versatile toolbelt that includes HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB, PHP, Laravel, React Native, and more. I enjoy turning ideas into reality using a mix of front-end and back-end technologies, and I’m constantly looking for new challenges to grow my skills. I did my internship on Software Development at [Zaman IT LTD.](https://www.zaman-it.com/)
 
 - 🧰 Expertise: JavaScript, React, Laravel, Node.js, Express.js, MongoDB, MySQL, Github, Figma to HTML.
